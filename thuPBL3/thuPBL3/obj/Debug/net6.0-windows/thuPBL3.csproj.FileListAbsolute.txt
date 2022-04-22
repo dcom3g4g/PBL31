@@ -62,3 +62,25 @@ C:\Users\tonqt\OneDrive\Máy tính\MAINPBL\thuPBL3\thuPBL3\obj\Debug\net6.0-wind
 C:\Users\tonqt\OneDrive\Máy tính\MAINPBL\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.genruntimeconfig.cache
 C:\Users\tonqt\OneDrive\Máy tính\MAINPBL\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\ref\thuPBL3.dll
 C:\Users\tonqt\OneDrive\Máy tính\MAINPBL\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.ownerform.resources
+D:\Last\thuPBL3\thuPBL3\bin\Debug\net6.0-windows\thuPBL3.exe
+D:\Last\thuPBL3\thuPBL3\bin\Debug\net6.0-windows\thuPBL3.deps.json
+D:\Last\thuPBL3\thuPBL3\bin\Debug\net6.0-windows\thuPBL3.runtimeconfig.json
+D:\Last\thuPBL3\thuPBL3\bin\Debug\net6.0-windows\thuPBL3.dll
+D:\Last\thuPBL3\thuPBL3\bin\Debug\net6.0-windows\thuPBL3.pdb
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.csproj.AssemblyReference.cache
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.AddNVform.resources
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.Loginform1.resources
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.Loginform2.resources
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.NhanVienUseCT.resources
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.ownerform.resources
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.Properties.Resources.resources
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.csproj.GenerateResource.cache
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.AssemblyInfoInputs.cache
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.AssemblyInfo.cs
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.csproj.CoreCompileInputs.cache
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.dll
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\refint\thuPBL3.dll
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.pdb
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\thuPBL3.genruntimeconfig.cache
+D:\Last\thuPBL3\thuPBL3\obj\Debug\net6.0-windows\ref\thuPBL3.dll

@@ -29,8 +29,9 @@ namespace thuPBL3
 
         private void button6_Click(object sender, EventArgs e)
         {
-           // this.Close();
-            
+            this.Close();
+            Loginform1 a=new Loginform1();
+            a.Show(); 
         }
     }
 }

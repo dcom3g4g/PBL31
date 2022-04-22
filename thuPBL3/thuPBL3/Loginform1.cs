@@ -55,7 +55,8 @@ namespace thuPBL3
             ownerform a=new ownerform();
             a.Show();
             this.Hide();
-
         }
+
     }
+    
 }

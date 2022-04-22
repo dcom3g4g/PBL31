@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tonqt\\OneDrive\\Máy tính\\MAINPBL\\thuPBL3\\thuPBL3\\thuPBL3.csproj": {}
+    "D:\\Last\\thuPBL3\\thuPBL3\\thuPBL3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tonqt\\OneDrive\\Máy tính\\MAINPBL\\thuPBL3\\thuPBL3\\thuPBL3.csproj": {
+    "D:\\Last\\thuPBL3\\thuPBL3\\thuPBL3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tonqt\\OneDrive\\Máy tính\\MAINPBL\\thuPBL3\\thuPBL3\\thuPBL3.csproj",
+        "projectUniqueName": "D:\\Last\\thuPBL3\\thuPBL3\\thuPBL3.csproj",
         "projectName": "thuPBL3",
-        "projectPath": "C:\\Users\\tonqt\\OneDrive\\Máy tính\\MAINPBL\\thuPBL3\\thuPBL3\\thuPBL3.csproj",
+        "projectPath": "D:\\Last\\thuPBL3\\thuPBL3\\thuPBL3.csproj",
         "packagesPath": "C:\\Users\\tonqt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tonqt\\OneDrive\\Máy tính\\MAINPBL\\thuPBL3\\thuPBL3\\obj\\",
+        "outputPath": "D:\\Last\\thuPBL3\\thuPBL3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tonqt\\AppData\\Roaming\\NuGet\\NuGet.Config",
