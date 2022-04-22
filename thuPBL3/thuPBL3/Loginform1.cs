@@ -49,5 +49,13 @@ namespace thuPBL3
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ownerform a=new ownerform();
+            a.Show();
+            this.Hide();
+
+        }
     }
 }

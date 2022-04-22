@@ -125,11 +125,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("VPS Phu Quoc Hoa", 10.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.Snow;
             this.label1.Location = new System.Drawing.Point(66, 23);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(202, 27);
+            this.label1.Size = new System.Drawing.Size(143, 22);
             this.label1.TabIndex = 2;
             this.label1.Text = "Shop SNEAKER";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -156,10 +156,10 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("VnCommercialScript", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.label4.Location = new System.Drawing.Point(373, 220);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(181, 28);
+            this.label4.Size = new System.Drawing.Size(185, 25);
             this.label4.TabIndex = 15;
             this.label4.Text = "Please Login First";
             this.label4.Click += new System.EventHandler(this.label4_Click);
@@ -167,7 +167,7 @@
             // button2
             // 
             this.button2.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button2.Font = new System.Drawing.Font("Tiffany-Heavy", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button2.ForeColor = System.Drawing.Color.Black;
             this.button2.Location = new System.Drawing.Point(339, 425);
             this.button2.Name = "button2";
@@ -175,6 +175,7 @@
             this.button2.TabIndex = 16;
             this.button2.Text = "Login";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // Loginform1
             // 

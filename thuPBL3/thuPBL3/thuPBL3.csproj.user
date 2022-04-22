@@ -13,5 +13,8 @@
     <Compile Update="NhanVienUseCT.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="ownerform.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
